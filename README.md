@@ -1,6 +1,10 @@
 # docker-kong-cassandra
 Docker for Kong with Cassandra, with exposed database directory
 
+## Prerequisite
+- Docker
+- [Docker-compose](https://docs.docker.com/compose/install/)
+
 ## Usage
 ### Start the service
 ```
